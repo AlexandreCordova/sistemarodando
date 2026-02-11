@@ -515,6 +515,22 @@ const getContactMessage = async (msg: proto.IWebMessageInfo, wbot: Session) => {
       };
 };
 
+const extractContactNumberFromJid = (jid: string): string => {
+  if (!jid) return "";
+
+  const normalizedJid = jidNormalizedUser(jid);
+  const userPart = normalizedJid.split("@")[0] || "";
+
+  if (normalizedJid.includes("@g.us")) {
+    return userPart;
+  }
+
+  const deviceSafeUser = userPart.split(":")[0] || userPart;
+  const onlyDigits = deviceSafeUser.replace(/\D/g, "");
+
+  return onlyDigits;
+};
+
 function findCaption(obj) {
   if (typeof obj !== "object" || obj === null) {
     return null;
@@ -796,10 +812,7 @@ const verifyContact = async (
   companyId: number
 ): Promise<Contact> => {
   let profilePicUrl: string = "";
-
-  // ALTERAÇÃO AQUI: Garante que pegamos o número antes do '@' e limpamos caracteres
-  const rawNumber = msgContact.id.split('@')[0];
-  const cleanNumber = rawNumber.replace(/\D/g, "");
+  const cleanNumber = extractContactNumberFromJid(msgContact.id);
 
   const contactData = {
     name: msgContact.name || cleanNumber,
@@ -5305,8 +5318,8 @@ const wbotUserJid = wbot?.user?.id;
             ? ""
             : await wbot!.profilePictureUrl(contact.id!).catch(() => null);
         const contactData = {
-          name: contact.id.replace(/\D/g, ""),
-          number: contact.id.replace(/\D/g, ""),
+          name: extractContactNumberFromJid(contact.id),
+          number: extractContactNumberFromJid(contact.id),
           isGroup: contact.id.includes("@g.us") ? true : false,
           companyId: companyId,
           remoteJid: contact.id,
