@@ -1,0 +1,630 @@
+[
+  {
+    "id": "554991831394@s.whatsapp.net",
+    "name": "Diogo Coopervil"
+  },
+  {
+    "id": "558195364840@s.whatsapp.net",
+    "name": "Gilberto"
+  },
+  {
+    "id": "554998105785@s.whatsapp.net",
+    "name": "Daiane"
+  },
+  {
+    "id": "5511986742489@s.whatsapp.net",
+    "name": "Robler"
+  },
+  {
+    "id": "555195880159@s.whatsapp.net",
+    "name": "Sergio IT RS"
+  },
+  {
+    "id": "554991016981@s.whatsapp.net",
+    "name": "Alcinei Fazenda"
+  },
+  {
+    "id": "5511965000309@s.whatsapp.net",
+    "name": "Samuel SP - Capital"
+  },
+  {
+    "id": "554999000439@s.whatsapp.net",
+    "name": "Unimed Lages"
+  },
+  {
+    "id": "5519997247705@s.whatsapp.net",
+    "name": "Andre IT CAM"
+  },
+  {
+    "id": "554988025042@s.whatsapp.net",
+    "name": "Bruna"
+  },
+  {
+    "id": "554999409213@s.whatsapp.net",
+    "name": "Evelyn Macedo"
+  },
+  {
+    "id": "554999368007@s.whatsapp.net",
+    "name": "Valquíria Garden"
+  },
+  {
+    "id": "554999220487@s.whatsapp.net",
+    "name": "Lucas Figueiredo"
+  },
+  {
+    "id": "555192099800@s.whatsapp.net",
+    "name": "JonathanS IT RS"
+  },
+  {
+    "id": "5519974050989@s.whatsapp.net",
+    "name": "Kennedy Brasil"
+  },
+  {
+    "id": "554998336291@s.whatsapp.net",
+    "name": "Stefanie"
+  },
+  {
+    "id": "5511982274812@s.whatsapp.net",
+    "name": "Grace IT SP"
+  },
+  {
+    "id": "554198010170@s.whatsapp.net",
+    "name": "Rosilda Ct"
+  },
+  {
+    "id": "5511999441184@s.whatsapp.net",
+    "name": "Luis Claudio IT SP"
+  },
+  {
+    "id": "554891643451@s.whatsapp.net",
+    "name": "André Supervisor"
+  },
+  {
+    "id": "554998217198@s.whatsapp.net",
+    "name": "Adriana Casa"
+  },
+  {
+    "id": "554999116638@s.whatsapp.net",
+    "name": "Vitor"
+  },
+  {
+    "id": "554899729085@s.whatsapp.net",
+    "name": "Solange Promotora"
+  },
+  {
+    "id": "554999705178@s.whatsapp.net",
+    "name": "Josi Lafi"
+  },
+  {
+    "id": "554891900725@s.whatsapp.net",
+    "name": "Gabriela Stark"
+  },
+  {
+    "id": "5519995231760@s.whatsapp.net",
+    "name": "Pedro Cosb"
+  },
+  {
+    "id": "554788874441@s.whatsapp.net",
+    "name": "Gardênia Loja Lafi"
+  },
+  {
+    "id": "559881436252@s.whatsapp.net",
+    "name": "Vanesia IT MA"
+  },
+  {
+    "id": "5519999445475@s.whatsapp.net",
+    "name": "Rowilson gestor"
+  },
+  {
+    "id": "554988063500@s.whatsapp.net",
+    "name": "Sesc"
+  },
+  {
+    "id": "554998091666@s.whatsapp.net",
+    "name": "Fabrício FGTS"
+  },
+  {
+    "id": "554984094462@s.whatsapp.net",
+    "name": "Bruna Fio de Ouro"
+  },
+  {
+    "id": "5517997451846@s.whatsapp.net",
+    "name": "Danilo Tecnico"
+  },
+  {
+    "id": "554999731054@s.whatsapp.net",
+    "name": "Edilma"
+  },
+  {
+    "id": "5511991603422@s.whatsapp.net",
+    "name": "João Manoel IT Lojas"
+  },
+  {
+    "id": "554184692355@s.whatsapp.net",
+    "name": "Kauan Técnico JF"
+  },
+  {
+    "id": "554999931476@s.whatsapp.net",
+    "name": "Karen Leal"
+  },
+  {
+    "id": "554984033635@s.whatsapp.net",
+    "name": "Katyucia Secchi"
+  },
+  {
+    "id": "5519996052936@s.whatsapp.net",
+    "name": "Barbara IT Cam"
+  },
+  {
+    "id": "5517996311002@s.whatsapp.net",
+    "name": "Gestor Julio"
+  },
+  {
+    "id": "5511991880826@s.whatsapp.net",
+    "name": "Marisol"
+  },
+  {
+    "id": "554999612993@s.whatsapp.net",
+    "name": "Silvia Fio De Ouro"
+  },
+  {
+    "id": "556592769134@s.whatsapp.net",
+    "name": "Simone Cosb"
+  },
+  {
+    "id": "554999158478@s.whatsapp.net",
+    "name": "Work Master"
+  },
+  {
+    "id": "554998032722@s.whatsapp.net",
+    "name": "Fernando"
+  },
+  {
+    "id": "554899915568@s.whatsapp.net",
+    "name": "Promotora São José"
+  },
+  {
+    "id": "554988570852@s.whatsapp.net",
+    "name": "Jennifer Maira"
+  },
+  {
+    "id": "5513996951160@s.whatsapp.net",
+    "name": "Clínica Boa Vista"
+  },
+  {
+    "id": "5511985493949@s.whatsapp.net",
+    "name": "Promotora Cosb"
+  },
+  {
+    "id": "5519993631549@s.whatsapp.net",
+    "name": "Sandra Consultoria RH"
+  },
+  {
+    "id": "554999850542@s.whatsapp.net",
+    "name": "Silvia Estagiária"
+  },
+  {
+    "id": "554191681193@s.whatsapp.net",
+    "name": "Fernando Tecnico"
+  },
+  {
+    "id": "554999241076@s.whatsapp.net",
+    "name": "Lu Lafi"
+  },
+  {
+    "id": "554999731093@s.whatsapp.net",
+    "name": "Edilmara"
+  },
+  {
+    "id": "554998211871@s.whatsapp.net",
+    "name": "Camila Entrevista"
+  },
+  {
+    "id": "556599477266@s.whatsapp.net",
+    "name": "Wantuir"
+  },
+  {
+    "id": "554792923690@s.whatsapp.net",
+    "name": "Claudir"
+  },
+  {
+    "id": "554988637673@s.whatsapp.net",
+    "name": "Elaine Entrevista"
+  },
+  {
+    "id": "554988166077@s.whatsapp.net",
+    "name": "Floricultura Rosário"
+  },
+  {
+    "id": "554984362566@s.whatsapp.net",
+    "name": "Lilian Lafio"
+  },
+  {
+    "id": "554891267516@s.whatsapp.net",
+    "name": "Marcelo Stark"
+  },
+  {
+    "id": "554984108349@s.whatsapp.net",
+    "name": "Ana Júlia Entrevista"
+  },
+  {
+    "id": "555491104764@s.whatsapp.net",
+    "name": "Imunizadora Bonella"
+  },
+  {
+    "id": "5515997890454@s.whatsapp.net",
+    "name": "Maria Teresa It Cam"
+  },
+  {
+    "id": "554899724649@s.whatsapp.net",
+    "name": "Pablo Itely"
+  },
+  {
+    "id": "554999572404@s.whatsapp.net",
+    "name": "Gislaine Fio de Ouro"
+  },
+  {
+    "id": "554998138458@s.whatsapp.net",
+    "name": "Studio Said"
+  },
+  {
+    "id": "554999009111@s.whatsapp.net",
+    "name": "Ana - Lucas"
+  },
+  {
+    "id": "5511947817313@s.whatsapp.net",
+    "name": "Wayne"
+  },
+  {
+    "id": "554998199640@s.whatsapp.net",
+    "name": "Patrícia"
+  },
+  {
+    "id": "554999681494@s.whatsapp.net",
+    "name": "Suporte Comercial ITELY"
+  },
+  {
+    "id": "555491615989@s.whatsapp.net",
+    "name": "Daniel Gestor RS"
+  },
+  {
+    "id": "554984096575@s.whatsapp.net",
+    "name": "Jéssica Padilha"
+  },
+  {
+    "id": "554991728429@s.whatsapp.net",
+    "name": "Bianca Garden"
+  },
+  {
+    "id": "554998116938@s.whatsapp.net",
+    "name": "Evelyn CP"
+  },
+  {
+    "id": "5511940767167@s.whatsapp.net",
+    "name": "Luciana Cosb"
+  },
+  {
+    "id": "554999404268@s.whatsapp.net",
+    "name": "Marines Fio Ouro"
+  },
+  {
+    "id": "555191891185@s.whatsapp.net",
+    "name": "Adriana Crespo TRUE"
+  },
+  {
+    "id": "5511992141922@s.whatsapp.net",
+    "name": "Alexandre IT  SP"
+  },
+  {
+    "id": "554998103828@s.whatsapp.net",
+    "name": "Rosane"
+  },
+  {
+    "id": "554999827034@s.whatsapp.net",
+    "name": "Cleomar Fio De Ouro"
+  },
+  {
+    "id": "554999773937@s.whatsapp.net",
+    "name": "Aline Lafi Matriz"
+  },
+  {
+    "id": "556599399815@s.whatsapp.net",
+    "name": "Julieli Cosb"
+  },
+  {
+    "id": "554191468520@s.whatsapp.net",
+    "name": "Luciani"
+  },
+  {
+    "id": "553199727030@s.whatsapp.net",
+    "name": "Patricia"
+  },
+  {
+    "id": "5511949537683@s.whatsapp.net",
+    "name": "Roupas e vestuário Gome& Catarina"
+  },
+  {
+    "id": "554991101625@s.whatsapp.net",
+    "name": "Ivonei"
+  },
+  {
+    "id": "554999646094@s.whatsapp.net",
+    "name": "Lays Fio De Ouro"
+  },
+  {
+    "id": "554991924759@s.whatsapp.net",
+    "name": "Lucas"
+  },
+  {
+    "id": "5511974952969@s.whatsapp.net",
+    "name": "Ana Aparecida Promotora SP"
+  },
+  {
+    "id": "554999899630@s.whatsapp.net",
+    "name": "Rafaela Fio Ouro"
+  },
+  {
+    "id": "5519996055575@s.whatsapp.net",
+    "name": "Unimed Campinas"
+  },
+  {
+    "id": "5517996121962@s.whatsapp.net",
+    "name": "Denis IT SP"
+  },
+  {
+    "id": "554999388777@s.whatsapp.net",
+    "name": "Grazii"
+  },
+  {
+    "id": "554999234685@s.whatsapp.net",
+    "name": "Vanuza"
+  },
+  {
+    "id": "554991666059@s.whatsapp.net",
+    "name": "Adilson Fazenda"
+  },
+  {
+    "id": "554198874974@s.whatsapp.net",
+    "name": "Denis Depósito"
+  },
+  {
+    "id": "555198566872@s.whatsapp.net",
+    "name": "Maurício Itely"
+  },
+  {
+    "id": "554991098583@s.whatsapp.net",
+    "name": "Andrielle Coral"
+  },
+  {
+    "id": "554891288581@s.whatsapp.net",
+    "name": "Clínica São Jose"
+  },
+  {
+    "id": "554991930814@s.whatsapp.net",
+    "name": "Elen"
+  },
+  {
+    "id": "554999389988@s.whatsapp.net",
+    "name": "Fernanda"
+  },
+  {
+    "id": "554999431490@s.whatsapp.net",
+    "name": "Amanda Cobrança"
+  },
+  {
+    "id": "554999440935@s.whatsapp.net",
+    "name": "Mariana Garden"
+  },
+  {
+    "id": "554197709373@s.whatsapp.net",
+    "name": "Gestora Cristiane"
+  },
+  {
+    "id": "554999158625@s.whatsapp.net",
+    "name": "Dieile"
+  },
+  {
+    "id": "554991718620@s.whatsapp.net",
+    "name": "Eliane"
+  },
+  {
+    "id": "554998347186@s.whatsapp.net",
+    "name": "Adriana"
+  },
+  {
+    "id": "554999012325@s.whatsapp.net",
+    "name": "Gabriela Goulart"
+  },
+  {
+    "id": "5513996511160@s.whatsapp.net",
+    "name": "clinica boa vista"
+  },
+  {
+    "id": "554984234279@s.whatsapp.net",
+    "name": "Flavia Lafi"
+  },
+  {
+    "id": "554999310806@s.whatsapp.net",
+    "name": "Karen CP"
+  },
+  {
+    "id": "554984326112@s.whatsapp.net",
+    "name": "Jheni"
+  },
+  {
+    "id": "554399632007@s.whatsapp.net",
+    "name": "Maisa Munhoz "
+  },
+  {
+    "id": "554196394548@s.whatsapp.net",
+    "name": "Marcos Itely Ctba"
+  },
+  {
+    "id": "554999731069@s.whatsapp.net",
+    "name": "Uliara"
+  },
+  {
+    "id": "554988512555@s.whatsapp.net",
+    "name": "Dedetizadora Planalto"
+  },
+  {
+    "id": "554984094431@s.whatsapp.net",
+    "name": "Luana Entrevista"
+  },
+  {
+    "id": "554998122262@s.whatsapp.net",
+    "name": "Rep2m"
+  },
+  {
+    "id": "5515981612717@s.whatsapp.net",
+    "name": "Ilze Orquiza It Sorocaba"
+  },
+  {
+    "id": "554999526964@s.whatsapp.net",
+    "name": "Larissa Loja"
+  },
+  {
+    "id": "5511973024074@s.whatsapp.net",
+    "name": "Murilo"
+  },
+  {
+    "id": "554999681484@s.whatsapp.net",
+    "name": "Gabriel Figueiredo"
+  },
+  {
+    "id": "554988735517@s.whatsapp.net",
+    "name": "Juliana"
+  },
+  {
+    "id": "554999977658@s.whatsapp.net",
+    "name": "Rozeli Petfort"
+  },
+  {
+    "id": "554998253450@s.whatsapp.net",
+    "name": "Ketriny"
+  },
+  {
+    "id": "5511962265619@s.whatsapp.net",
+    "name": "Irene Cosb"
+  },
+  {
+    "id": "554797280423@s.whatsapp.net",
+    "name": "Jasseline"
+  },
+  {
+    "id": "5512997857341@s.whatsapp.net",
+    "name": "Sergio Furlan IT Lojas"
+  },
+  {
+    "id": "556199684605@s.whatsapp.net",
+    "name": "Nilde IT - DF"
+  },
+  {
+    "id": "554999485272@s.whatsapp.net",
+    "name": "Eliane Chaves"
+  },
+  {
+    "id": "554999081778@s.whatsapp.net",
+    "name": "Thais Labonnie"
+  },
+  {
+    "id": "554999681492@s.whatsapp.net",
+    "name": "Alexandre Cord"
+  },
+  {
+    "id": "554988078552@s.whatsapp.net",
+    "name": "Jamile"
+  },
+  {
+    "id": "5511993588826@s.whatsapp.net",
+    "name": "Lucimara IT Lojas"
+  },
+  {
+    "id": "554999330736@s.whatsapp.net",
+    "name": "Jean Carlos Pinheiro"
+  },
+  {
+    "id": "554898109812@s.whatsapp.net",
+    "name": "Maria Eduarda Petfort"
+  },
+  {
+    "id": "5511968325231@s.whatsapp.net",
+    "name": "Augusto Wolff"
+  },
+  {
+    "id": "555481590383@s.whatsapp.net",
+    "name": "Gustavo Alpha"
+  },
+  {
+    "id": "554999505595@s.whatsapp.net",
+    "name": "Regiane"
+  },
+  {
+    "id": "554988425950@s.whatsapp.net",
+    "name": "Dagmar Fio de Ouro"
+  },
+  {
+    "id": "554199721347@s.whatsapp.net",
+    "name": "Paulo Verbinski"
+  },
+  {
+    "id": "554188864901@s.whatsapp.net",
+    "name": "Agata"
+  },
+  {
+    "id": "554999947445@s.whatsapp.net",
+    "name": "Aline Renata"
+  },
+  {
+    "id": "554196126299@s.whatsapp.net",
+    "name": "Aliny Itely PR"
+  },
+  {
+    "id": "551154610000@s.whatsapp.net",
+    "name": "Platon"
+  },
+  {
+    "id": "554999970680@s.whatsapp.net",
+    "name": "Soly"
+  },
+  {
+    "id": "554999920995@s.whatsapp.net",
+    "name": "Bruno Leal"
+  },
+  {
+    "id": "5513988114417@s.whatsapp.net",
+    "name": "Keli Cristina"
+  },
+  {
+    "id": "554884381474@s.whatsapp.net",
+    "name": "Corpori"
+  },
+  {
+    "id": "554133450917@s.whatsapp.net",
+    "name": "Sodex Embalagens"
+  },
+  {
+    "id": "554984051285@s.whatsapp.net",
+    "name": "Best Engenharia"
+  },
+  {
+    "id": "5511972537588@s.whatsapp.net",
+    "name": "Nicole Representante SP"
+  },
+  {
+    "id": "554992002328@s.whatsapp.net",
+    "name": "Jota"
+  },
+  {
+    "id": "554999059426@s.whatsapp.net",
+    "name": "Fernanda"
+  },
+  {
+    "id": "554984111429@s.whatsapp.net",
+    "name": "Nicole Estagiária"
+  },
+  {
+    "id": "555496646384@s.whatsapp.net",
+    "name": "Maiara - Lafio Coral"
+  }
+]
